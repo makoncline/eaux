@@ -6,6 +6,7 @@
 
 module.exports = {
   plugins: [
+    `gatsby-plugin-material-ui`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
